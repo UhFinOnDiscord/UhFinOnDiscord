@@ -1,0 +1,5 @@
+- 👋 Hi, I’m UhFin!
+- 👀 I’m interested in coding & gaming
+- 🌱 I’m currently learning Lua, Javascript
+- 💞️ I’m looking to collaborate on various projects
+- 📫 How to reach me: Contact me on discord by adding or DMing @uhfin!
